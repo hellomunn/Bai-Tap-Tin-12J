@@ -1,0 +1,10 @@
+html 
+{
+  height: 100%;
+  widht: 100%;
+}
+h2 { color:pink; font-family:verdana;}
+h3 { color:yellow; font-family:verdana;}
+label {font-size: 10px;font-weight:bold;}
+input{ background-color: pink;}
+textarea { bacnground-color: ivory;}
